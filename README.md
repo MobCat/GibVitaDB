@@ -9,7 +9,7 @@ Also also also I'm not on anyone's side here, I just gib roms....
 Make a new folder called VitaDB on a drive that has more then 5GB of free space
 Download GibVitaDB.py to that new folder
 run python3 GibVitaDB.py
-profit ¯\_(ツ)_/¯
+profit ¯\\_(ツ)_/¯
 
 # ToDo
 Make a download counter so you know how many files are left to download so it doesn't just say "OK"
